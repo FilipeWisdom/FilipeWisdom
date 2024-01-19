@@ -1,7 +1,8 @@
 ### Olá, Eu sou o Filipe Ribeiro 👍
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=3QzH8j8ey1U)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-pinto-a3401418a/)[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipewisdom/)
 
-![FilipeWisdom GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeWisdom&show_icons=true&theme=radical)
+![FilipeWisdom GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeWisdom&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeWisdom&hide_progress=true)
 
 ## Tecnologias que uso no meu dia 
 <div style="display: inline_block"><br/>
