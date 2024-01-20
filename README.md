@@ -1,5 +1,7 @@
 ### Olá, Eu sou o Filipe Ribeiro Pinto 👍
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-pinto-a3401418a/)[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)[![Whatsapp(https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-pinto-a3401418a/)[![Youtuber](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=3QzH8j8ey1U)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/filipewisdom/)
 
 
 ![FilipeWisdom GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeWisdom&show_icons=true&theme=tokyonight)
@@ -16,6 +18,8 @@
 - Busco oportunidades no mercado como Desenvolvedor Jr, Analista de Dados Jr e Business Intelligence Jr.<br/>
 - Estou aberto a receber dicas valiosas que possam enriquecer meus conhecimentos na área de TI.<br/>
 
+## Endereço de contato
 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
 
 
